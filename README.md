@@ -6,7 +6,7 @@ A secure REST API built with **Node.js, Express, MongoDB & Mongoose** that perfo
 
 ## ⚡ Quick Start
 
-```bash
+
 # 1. Clone & install
 git clone https://github.com/Corv0id/seo-backend.git
 cd seo-backend
